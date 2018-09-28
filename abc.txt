@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 1.Hello from master
 2.hello from dev
 3.hello from dev
+=======
+Hello from master
+2.Hello from master
+>>>>>>> master
