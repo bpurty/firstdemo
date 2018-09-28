@@ -6,3 +6,5 @@
 Hello from master
 2.Hello from master
 >>>>>>> master
+
+10.merging done
